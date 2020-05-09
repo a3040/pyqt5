@@ -1,4 +1,4 @@
-#시작해보기
+#Getting Started
 
 from PyQt5 import QtWidgets
 

@@ -46,7 +46,7 @@ win2 = QtWidgets.QWidget(win)
 win2.setStyleSheet('border:1px solid green;') 
 win2.resize(100, 100)
 win2.move(10, 10)
-#Protected Functions 는 이런형태로 사용이 가능한가보네요
+#Protected Functions 는 이런형태로 사용이 가능한가봅니다.
 #https://doc.qt.io/qt-5/qwidget.html#mouseDoubleClickEvent
 win2.mousePressEvent = pe #마우스 눌릴때
 win2.mouseReleaseEvent = re #마우스 해재 됐을때

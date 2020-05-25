@@ -1,6 +1,7 @@
 #https://stackoverflow.com/questions/972/adding-a-method-to-an-existing-object-instance
 
 #class 및 생성된 하위 instance에 메소드 추가
+#p
 class A:
     def __init__(self):
         self.no = 1

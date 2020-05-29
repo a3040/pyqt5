@@ -1,6 +1,7 @@
 # https://doc.qt.io/qt-5/qwidget.html
 # The widget is the atom of the user interface: it receives mouse, keyboard and other events from the window system, and paints a representation of itself on the screen. Every widget is rectangular, and they are sorted in a Z-order. A widget is clipped by its parent and by the widgets in front of it.
 # https://doc.qt.io/qt-5/stylesheet-reference.html
+# e
 
 from PyQt5 import QtWidgets, QtCore
 

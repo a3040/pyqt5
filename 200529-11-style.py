@@ -1,6 +1,4 @@
-#e
-# 
-#  
+#e 
 from PyQt5.QtWidgets import *
 
  

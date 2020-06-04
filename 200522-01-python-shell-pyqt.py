@@ -1,5 +1,6 @@
 #https://www.riverbankcomputing.com/static/Docs/PyQt5/python_shell.html#using-pyqt4-from-the-python-shell
-# 
+# e
+
 """>>> from PyQt5 import QtWidgets
 >>> 
 >>> app = QtWidgets.QApplication([])

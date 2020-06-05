@@ -1,5 +1,6 @@
 # https://doc.qt.io/qt-5/qevent.html#Type-enum
 # qevent
+# e
 
 import sys
 from PyQt5 import QtCore

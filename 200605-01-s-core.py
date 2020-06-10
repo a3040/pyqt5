@@ -1,3 +1,5 @@
+#e
+# 
 from PyQt5.QtCore import QObject, QTimer, pyqtSignal, pyqtSlot
 from PyQt5 import QtWidgets, QtCore
 
@@ -5,7 +7,7 @@ class Foo(QObject):
     sig = pyqtSignal(str) 
 
 def hello(xx):
-    print('-------------:', xx)
+    print('----------recv:', xx)
     if xx == '1':
         app = QtWidgets.QApplication.instance()
         app.quit()

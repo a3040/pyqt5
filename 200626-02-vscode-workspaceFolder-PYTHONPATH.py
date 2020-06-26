@@ -1,4 +1,5 @@
 # vscode에서 작업디렉토리 PYTHONPATH에 넣기
+# https://stackoverflow.com/questions/53653083/how-to-correctly-set-pythonpath-for-visual-studio-code
 
 """
 /root/code

@@ -1,5 +1,6 @@
 # https://stackoverflow.com/questions/62291103/how-do-i-dock-a-subwindow-in-an-mdi-area-in-pyqt5-using-qtdesigner
 # mdi 사용.
+# e
 
 import os
 import sys

@@ -2,6 +2,7 @@
 > 소스 https://www.python.org/ftp/python/3.7.8/Python-3.7.8.tgz
 > 환경 SunOS 5.10 sun4v sparc SUNW
 > bash-3.00$ /usr/sfw/bin/gcc --version /// gcc (GCC) 3.4.3 
+#e
 
 # /usr/include/iso/math_c99.h 수정 후 설치 됨
 

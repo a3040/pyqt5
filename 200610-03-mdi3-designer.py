@@ -1,5 +1,6 @@
 # mdi 방식에 widget 추가하기
 # #designer에서 작성된 ui 파일 읽어 와서 subsclass 추가하기.
+# e
  
 import os
 import sys
@@ -38,12 +39,14 @@ class Win(QtWidgets.QWidget):
 
         self.mainbox.addLayout(self.headbox)
 
-        self.bodybox =  QtWidgets.QHBoxLayout()
+        #self.bodybox =  QtWidgets.QHBoxLayout()
         self.mdi = QtWidgets.QMdiArea()
         self.mdi.setStyleSheet('border:1px solid blue')
         self.mdi.setMinimumHeight(600)
-        self.bodybox.addWidget(self.mdi)
-        self.mainbox.addLayout(self.bodybox)
+        #self.bodybox.addWidget(self.mdi)
+        #self.mainbox.addLayout(self.bodybox)
+        self.mainbox.addWidget(self.mdi)
+        #self.mainbox.addLayout(self.bodybox)
 
         self.setLayout(self.mainbox)
 

@@ -1,3 +1,4 @@
+#e
 > python 3.7.8 설치
 > 소스 https://www.python.org/ftp/python/3.7.8/Python-3.7.8.tgz
 > 환경 SunOS 5.10 sun4v sparc SUNW
@@ -98,4 +99,7 @@ Type "help", "copyright", "credits" or "license" for more information.
     test_tcl test_tix test_tk test_ttk_guionly test_ttk_textonly
     test_turtle test_winconsoleio test_winreg test_winsound
     test_zipfile64
+
+========= 
+
 
